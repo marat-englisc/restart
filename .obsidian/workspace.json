@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "8ad3b79e0bdde624",
+    "type": "split",
+    "children": [
+      {
+        "id": "65cfb3b7266c0cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb754a6bde29ccd2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fac5ba0722793a81",
+    "type": "split",
+    "children": [
+      {
+        "id": "d140f43d9cfd7f94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f358232ac9e1321d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b176cb84b39da010",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "9715dcff0286d398",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 496.5
+  },
+  "right": {
+    "id": "ce16e18cefdf69bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e8ec67d39554691",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3d8fcd937932c3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01. Основы конфигурирования/06. Константы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "3b766c41d6cc949a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01. Основы конфигурирования/06. Константы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "9bd8317e42ae213d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "d55799bc7df50947",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "d3d67ceff61c3751",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01. Основы конфигурирования/06. Константы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "eb754a6bde29ccd2",
+  "lastOpenFiles": [
+    "05. Профессиональная разработка/03. Печатная форма документа.md",
+    "05. Профессиональная разработка/02. Контроль остатков и блокировки.md",
+    "05. Профессиональная разработка/01. Регистр остатков на практике.md",
+    "05. Профессиональная разработка/00. Навигация по разделу.md",
+    "01. Основы конфигурирования/23. Обработки и внешние файлы.md",
+    "01. Основы конфигурирования/22. Предопределённые данные и заполнение.md",
+    "01. Основы конфигурирования/21. Журналы документов и нумерация.md",
+    "01. Основы конфигурирования/20. Регистры сведений.md",
+    "02. Программирование/11. Блок цикла.md",
+    "02. Программирование/10. Блок условия.md",
+    "05. Профессиональная разработка/07. HTTP-сервисы своей базы.md",
+    "Картинки/05. Профессиональная разработка/02-Режим-блокировок.png",
+    "Картинки/05. Профессиональная разработка/01-Регистраторы.png",
+    "Картинки/05. Профессиональная разработка/01-Свойства-ресурса.png",
+    "Картинки/05. Профессиональная разработка/01-Регистр-остатков-данные.png",
+    "Картинки/05. Профессиональная разработка/01-Регистр-остатков-основные.png",
+    "Картинки/05. Профессиональная разработка",
+    "05. Профессиональная разработка/09. БСП и типовые конфигурации.md",
+    "99. Шпаргалки/01. Глоссарий.md",
+    "99. Шпаргалки/02. Горячие клавиши.md",
+    "99. Шпаргалки/04. Где писать код.md",
+    "99. Шпаргалки/03. Встроенный язык — шпаргалка.md",
+    "03. Язык запросов и СКД/11. Итоги и обход результата запроса.md",
+    "03. Язык запросов и СКД/08. Соединения таблиц.md",
+    "02. Программирование/29. Отладка и проверка кода.md",
+    "02. Программирование/30. Подписки на события.md",
+    "02. Программирование/28. Транзакции и блокировки.md",
+    "02. Программирование/18. Массивы.md",
+    "02. Программирование/19. Структуры и соответствия.md",
+    "04. Программирование управляемых форм/02. Создание формы документа.md",
+    "04. Программирование управляемых форм/01. Управляемая форма и её данные.md",
+    "04. Программирование управляемых форм/09. Таблица формы и текущая строка.md",
+    "Картинки/04. Управляемые формы/УФ-21-Меню-отладки.png",
+    "Картинки/04. Управляемые формы/УФ-20-Практикум-итог-900.png",
+    "Картинки/04. Управляемые формы/УФ-19-Практикум-итог-600.png",
+    "04. Программирование управляемых форм/Примеры/ПрактикумУправляемыхФорм.epf",
+    "Картинки/04. Управляемые формы/УФ-18-Проверка-модуля.png",
+    "04. Программирование управляемых форм/Примеры/ПрактикумУправляемыхФорм.bsl",
+    "04. Программирование управляемых форм/Примеры",
+    "Картинки/04. Управляемые формы/УФ-17-Конструктор-формы.png",
+    "Картинки/04. Управляемые формы",
+    "04. Программирование управляемых форм",
+    "03. Язык запросов и СКД",
+    "03. Управляемые формы",
+    "02. Программирование",
+    "01. Основы конфигурирования/Без названия"
+  ]
+}
